@@ -1,3 +1,4 @@
+// Input in Array
 import java.util.*;
 
 public class inarray {
