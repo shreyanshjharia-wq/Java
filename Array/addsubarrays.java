@@ -1,4 +1,4 @@
-// Sum of Subarrays
+// Add Subarrays
 import java.util.*;
 
 public class addsubarrays {
