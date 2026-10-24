@@ -1,3 +1,5 @@
+// Practice: comparing strings using equals()
+
 public class Stringfunction {
     public static void main(String[] args) {
         String S1 = "Tony";
